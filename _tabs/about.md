@@ -5,4 +5,4 @@ order: 4
 ---
 
 Hello,
-I'm 19 years old self taught bug bounty hunter from Poland. I'm looking for a full time job :)
+I'm 19 years old self taught bug bounty hunter from Poland. I'm currently working at SonicWall as Junior Threat Researcher.
